@@ -7,7 +7,7 @@
 .hero{
     height: 100vh;
     width: 100%;
-    background-image: url("static/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg");
+    background-image: url("static/6064779.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -29,7 +29,7 @@ nav{
 }
 
 span{
-    color: #C73872;
+    color: #FF7000;
 }
 nav ul li{
     list-style-type: none;
@@ -45,7 +45,7 @@ nav ul li a{
 }
 
 nav ul li a:hover{
-    color: #C73872;
+    color: #FF7000;
     transition: .4s;
 }
 /* Title text*/
